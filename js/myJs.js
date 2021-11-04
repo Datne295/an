@@ -15,7 +15,7 @@ function firstQuestion(){
     $('.content').hide();
     Swal.fire({
         title: 'He luu cậu!',
-        text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.',
+        text: 'Tớ có một câu hỏi muốn hỏi cậu <3333.',
         imageUrl: '200163822_1961173977382086_2724237468608260459_n.jpg',
         imageWidth: 300,
         imageHeight: 300,
