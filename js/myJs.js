@@ -15,7 +15,7 @@ function firstQuestion(){
     $('.content').hide();
     Swal.fire({
         title: 'He luu cậu!',
-        text: 'Tớ có một câu hỏi muốn hỏi cậu <3333.',
+        text: 'Tớ có một câu hỏi muốn hỏi cậu <3333 .',
         imageUrl: '254078221_1348069145596087_7142238454141354947_n.jpg',
         imageWidth: 300,
         imageHeight: 300,
