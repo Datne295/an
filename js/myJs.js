@@ -19,7 +19,7 @@ function firstQuestion(){
         imageUrl: '254078221_1348069145596087_7142238454141354947_n.jpg',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("giphy2.gif")',
+        background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
       }).then(function(){
         $('.content').show(200);
